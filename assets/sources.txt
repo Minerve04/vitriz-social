@@ -1,0 +1,9 @@
+icon.svg https://vitriz.fr/vitriz-icon.svg
+florist.webp https://vitriz.fr/__l5e/assets-v1/9eb782a0-668e-4ffe-b6f4-413df06bee4e/vitriz-florist.webp
+phone.webp https://vitriz.fr/__l5e/assets-v1/c42043a8-c3c4-4d5b-b803-799e4a4773a0/vitriz-phone.webp
+flowers.webp https://vitriz.fr/__l5e/assets-v1/54754e64-4efd-4909-ae8f-7bfe0c3dff44/vitriz-flowers.webp
+bakery.webp https://vitriz.fr/__l5e/assets-v1/efcf20f5-f7fc-44f2-b61c-9368dbac1930/vitriz-bakery.webp
+hairdresser.webp https://vitriz.fr/__l5e/assets-v1/aff65db0-262a-4612-bce9-f888e7d2ec86/vitriz-hairdresser.webp
+craftsman.webp https://vitriz.fr/__l5e/assets-v1/f6d9d368-029d-4f7f-8d32-88f6a99151e3/vitriz-craftsman.webp
+restaurant.webp https://vitriz.fr/__l5e/assets-v1/b92d47fe-cfab-4c84-a778-68751a4f4074/vitriz-restaurant.webp
+boutique.webp https://vitriz.fr/__l5e/assets-v1/6e63273f-f322-4697-93ec-5374e9cb00e0/vitriz-boutique.webp
